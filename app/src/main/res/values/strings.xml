@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dots And Boxes</string>
+    <string name="win1">Player 1 wins!!!</string>
+    <string name="win2">Player 2 wins!!</string>
+    <string name="draw">Its a DRAW!!!!</string>
+</resources>
